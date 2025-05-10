@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SHABAN-MD~YxgDHRKZ#oeLH4G1Q81GO6HTXfBJfE6MIm7XB4flE25NwBheUdMQ",
       "required": true,
       "value": ""
     },  
@@ -90,9 +90,9 @@
 }, 
 
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
+      "description": "260774029289",
       "required": true,
-      "value": "923043788282"
+      "value": "260774029289"
 
     }, 
 
